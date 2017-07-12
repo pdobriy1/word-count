@@ -1,11 +1,8 @@
-CS542 Design Patterns
-Fall 2016
-PROJECT Assignment3 README FILE
+Design Patterns
+
 
 
 Author(s): Prateek dobriyal
-e-mail(s): pdobriy1@binghamton.edu
-
 
 PURPOSE:
 
